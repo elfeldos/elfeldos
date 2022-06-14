@@ -1,6 +1,6 @@
 ## Hi there, this is Freddy 👋
 <br>
-@
+
 <img align="right" alt="Picture" src="https://user-images.githubusercontent.com/74424903/173593829-43ce04fe-790f-4a88-9189-2a07ea5f1dda.svg" width="400" height="200" />
 
 - 🤓 After Highschool I studied and graduated in Innovation-Management
